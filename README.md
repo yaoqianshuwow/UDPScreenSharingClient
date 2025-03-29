@@ -1,0 +1,2 @@
+# UDPScreenSharingClient
+基于qt框架、UDP协议、多线程与OpenGL技术开发的高效屏幕分享解决方案。利用UDP的无连接特性实现快速数据传输，多线程优化处理流程，OpenGL负责屏幕内容的高效渲染展示。
